@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "大人が言う",
+  "base_artist": "VIGORMAN",
+  "createdAt": "2026-02-11T13:23:27.730377Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "大人が言う",
+      "artist": "VIGORMAN",
+      "has_synced": false,
+      "path": "select/pl_01_大人が言う_VIGORMAN.txt"
+    }
+  ]
+}
